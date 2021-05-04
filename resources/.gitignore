@@ -1,0 +1,4 @@
+*
+!.gitignore
+!Dockerfile.simplescalar
+!requirements.txt
